@@ -7,3 +7,4 @@
 | JavaScript | none               | `./main.js`  | none                                                                                                                                                                                          |
 | Python     | none               | `./main.py`  | none                                                                                                                                                                                          |
 | Racket     | none               | `./main.rkt` | none                                                                                                                                                                                          |
+| GForth     | none               | `./main.4th` | none                                                                                                                                                                                          |
